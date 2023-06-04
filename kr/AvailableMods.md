@@ -40,14 +40,10 @@
 <details>
   <summary>목록 보기</summary>
   
-  * EditorTweaks
   * Editor+ Reborn
-  * FixBug
   * NoCameraStop
   * PlanetTweaks
   * RelativeFreeAngle
-  * ShowTimingWindowScale
-  * TileTweaks
 </details>
 
 ---
@@ -56,8 +52,12 @@
 <details>
   <summary>목록 보기</summary>
   
+  * EditorTweaks
+  * FixBug
   * JudgeTextBeautifier
   * MagicShapeMultiply
   * ProgressDisplayer
   * PrograssBar
+  * ShowTimingWindowScale
+  * TileTweaks
 </details>
