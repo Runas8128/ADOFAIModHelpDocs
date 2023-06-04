@@ -34,27 +34,27 @@
 <details>
   <summary>목록 보기</summary>
   
-  * AdofaiTweaks
-  * Overlayer
-  * BackToThePast
-  * CustomDeathMassage
-  * DesyncFix
-  * DetailRP
-  * ErrorDetector
-  * KeyViewer
-  * Localizations
-  * MusicTimestamp
-  * RainingKeys
-  * ShowBPM
-  * ShowVFXs
-  * TileCount
-  * DLC 대화창 디자인 바꿔주는 모드
-  * EmulateSpecialday
-  * FaceLock
-  * MinesweeperFlag
-  * NoTileDot
-  * AdofaiExtension
-  * AutoUpdate
-  * EditorTabLib
-  * YoutubeStream
+  * AdofaiTweaks (v2.6.3)
+  * Overlayer (v2.4.0)
+  * BackToThePast (v1.9.3)
+  * CustomDeathMassage (v1.0.0 ; 아카이브 서버 모드)
+  * DesyncFix (v0.0.6)
+  * DetailRP (v1.0.2)
+  * ErrorDetector (v1.0.0)
+  * KeyViewer (v3.6.1)
+  * Localizations (v1.0.0)
+  * MusicTimestamp (v0.0.10)
+  * RainingKeys (v0.4.1)
+  * ShowBPM (v1.2.0)
+  * ShowVFXs (v1.1.0)
+  * TileCount (v0.0.9)
+  * DLC 대화창 디자인 바꿔주는 모드 (v0.1.0)
+  * EmulateSpecialday (v1.1.0 ; 아카이브 서버 모드)
+  * FaceLock (v1.0.1)
+  * MinesweeperFlag (v0.0.1)
+  * NoTileDot (v1.0)
+  * AdofaiExtension (v0.0.5)
+  * AutoUpdate (v0.0.4)
+  * EditorTabLib (v2.2.0)
+  * YoutubeStream (v0.0.5)
 </details>
