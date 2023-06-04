@@ -54,6 +54,7 @@
   <summary>목록 보기</summary>
   
   * EditorTweaks
+  * Editor+
   * FixBug
   * MagicShapeMultiply
   * ProgressDisplayer
