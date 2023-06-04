@@ -2,7 +2,7 @@
 
 **\* 기준 얼불춤 버전 - 정식 (v2.5.0, r110), Windows**
 
-**\* 모든 모드는 최신 버전 기준으로 분류되었습니다.**
+**\* 모든 모드는 최신 버전 기준으로 분류되었습니다. 최신버전이 아니라면 업데이트해주세요.**
 
 ---
 
@@ -11,7 +11,7 @@
   <summary>목록 보기</summary>
   
   * AdofaiExtension (v0.0.5)
-  * AdofaiTweaks (v2.6.3)
+  * AdofaiTweaks (v2.6.3 ; [이 링크](https://bot.adofai.gg/api/mods/AdofaiTweaks?download=true)를 통해 받아야 합니다)
   * AutoUpdate (v0.0.4)
   * BackToThePast (v1.9.3)
   * CustomDeathMassage (v1.0.0 ; 아카이브 서버 모드)
