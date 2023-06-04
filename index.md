@@ -26,6 +26,10 @@
   * NoCameraStop
   * RelativeFreeAngle
   * PlanetTweaks
+  * FixBug
+  * ShowTimingWindowScale
+  * TileTweaks
+  * EditorTweaks
 </details>
 
 ---
