@@ -38,7 +38,7 @@
   * Overlayer
   * BackToThePast
   * CustomDeathMassage
-  * DesynkFix
+  * DesyncFix
   * DetailRP
   * ErrorDetector
   * KeyViewer
@@ -55,6 +55,6 @@
   * NoTileDot
   * AdofaiExtension
   * AutoUpdate
-  * EditorTagLib
+  * EditorTabLib
   * YoutubeStream
 </details>
