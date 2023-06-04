@@ -13,7 +13,6 @@
   * ProgressDisplayer
   * MagicShapeMultiply
   * PrograssBar
-  * ShowVFX
 </details>
 
 ---
