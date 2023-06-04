@@ -22,6 +22,7 @@
   * EmulateSpecialday (v1.1.0 ; 아카이브 서버 모드)
   * ErrorDetector (v1.0.0)
   * FaceLock (v1.0.1)
+  * JudgeTextBeautifier(v1.4.0)
   * KeyViewer (v3.6.1)
   * Localizations (v1.0.0)
   * MinesweeperFlag (v0.0.1)
@@ -54,7 +55,6 @@
   
   * EditorTweaks
   * FixBug
-  * JudgeTextBeautifier
   * MagicShapeMultiply
   * ProgressDisplayer
   * PrograssBar
