@@ -28,6 +28,7 @@
   * MusicTimestamp (v0.0.10)
   * NoTileDot (v1.0)
   * Overlayer (v2.4.0)
+  * RainingKeys (v0.4.1)
   * ShowVFXs (v1.1.0)
   * TileCount (v0.0.9)
   * YoutubeStream (v0.0.5)
