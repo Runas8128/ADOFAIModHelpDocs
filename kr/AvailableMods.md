@@ -6,34 +6,6 @@
 
 ---
 
-### 실행이 불가능하거나 치명적인 버그가 있는 모드
-<details>
-  <summary>목록 보기</summary>
-  
-  * ProgressDisplayer
-  * MagicShapeMultiply
-  * PrograssBar
-  * JudgeTextBeautifier
-</details>
-
----
-
-### 실행 가능하나 일부 기능이 정상 작동하지 않는 모드
-<details>
-  <summary>목록 보기</summary>
-  
-  * Editor+ Reborn
-  * NoCameraStop
-  * RelativeFreeAngle
-  * PlanetTweaks
-  * FixBug
-  * ShowTimingWindowScale
-  * TileTweaks
-  * EditorTweaks
-</details>
-
----
-
 ### 사용 가능한 모드
 <details>
   <summary>목록 보기</summary>
@@ -62,3 +34,34 @@
   * EditorTabLib (v2.2.0)
   * YoutubeStream (v0.0.5)
 </details>
+
+--
+
+### 실행 가능하나 일부 기능이 정상 작동하지 않는 모드
+<details>
+  <summary>목록 보기</summary>
+  
+  * Editor+ Reborn
+  * NoCameraStop
+  * RelativeFreeAngle
+  * PlanetTweaks
+  * FixBug
+  * ShowTimingWindowScale
+  * TileTweaks
+  * EditorTweaks
+</details>
+
+
+---
+
+### 실행이 불가능하거나 치명적인 버그가 있는 모드
+<details>
+  <summary>목록 보기</summary>
+  
+  * ProgressDisplayer
+  * MagicShapeMultiply
+  * PrograssBar
+  * JudgeTextBeautifier
+</details>
+
+---
