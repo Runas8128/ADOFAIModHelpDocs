@@ -28,6 +28,7 @@
   * [MusicTimestamp (v0.0.10)](https://bot.adofai.gg/api/mods/MusicTimestamp?download=true)
   * [NoTileDot (v1.0)](https://bot.adofai.gg/api/mods/NoTileDot?download=true)
   * [Overlayer (v2.4.0)](https://bot.adofai.gg/api/mods/Overlayer?download=true)
+  * [ProgressDisplayer (v2.0.8)](https://bot.adofai.gg/api/mods/ProgressDisplayer?download=true)
   * [RainingKeys (v0.4.1)](https://bot.adofai.gg/api/mods/RainingKeys?download=true)
   * [ShowVFXs (v1.1.0)](https://bot.adofai.gg/api/mods/ShowVFXs?download=true)
   * [TileCount (v0.0.9)](https://bot.adofai.gg/api/mods/TileCount?download=true)
@@ -57,7 +58,6 @@
   * FixBug
   * MagicShapeMultiply
   * Magicshapemultitools
-  * ProgressDisplayer
   * ProgressBar
   * Replay
   * ShowTimingWindowScale
