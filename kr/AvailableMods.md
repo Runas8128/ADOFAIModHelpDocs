@@ -30,8 +30,8 @@
   * [Overlayer (v2.4.0)](https://bot.adofai.gg/api/mods/Overlayer?download=true)
   * [ProgressDisplayer (v2.0.8)](https://bot.adofai.gg/api/mods/ProgressDisplayer?download=true)
   * [RainingKeys (v0.4.1)](https://bot.adofai.gg/api/mods/RainingKeys?download=true)
-  * [ShowVFXs (v1.1.0)](https://bot.adofai.gg/api/mods/ShowVFXs?download=true)
   * [ShowTimingWindowScale (v0.0.3)](https://bot.adofai.gg/api/mods/ShowTimingWindowScale?download=true)
+  * [ShowVFXs (v1.1.0)](https://bot.adofai.gg/api/mods/ShowVFXs?download=true)
   * [TileCount (v0.0.9)](https://bot.adofai.gg/api/mods/TileCount?download=true)
   * [YoutubeStream (v0.0.5)](https://bot.adofai.gg/api/mods/YoutubeStream?download=true)
 </details>
