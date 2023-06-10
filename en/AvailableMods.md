@@ -22,8 +22,10 @@
   * EmulateSpecialday (v1.1.0 ; In archived server)
   * [ErrorDetector (v1.0.0)](https://bot.adofai.gg/api/mods/ErrorDetector?download=true)
   * [FaceLock (v1.0.1)](https://bot.adofai.gg/api/mods/FaceLock?download=true)
+  * [JudgeTextBeautifier (v1.4.0)](https://bot.adofai.gg/api/mods/JudgeTextBeautifier?download=true)
   * [KeyViewer (v3.6.1)](https://bot.adofai.gg/api/mods/KeyViewer?download=true)
   * [Localizations (v1.0.0)](https://bot.adofai.gg/api/mods/Localizations?download=true)
+  * [MapConverter (v2.3.0)](https://bot.adofai.gg/api/mods/MapConverter?download=true)
   * [MinesweeperFlag (v0.0.1)](https://bot.adofai.gg/api/mods/MinesweeperFlag?download=true)
   * [MusicTimestamp (v0.0.10)](https://bot.adofai.gg/api/mods/MusicTimestamp?download=true)
   * [NoTileDot (v1.0)](https://bot.adofai.gg/api/mods/NoTileDot?download=true)
@@ -33,6 +35,7 @@
   * [ShowTimingWindowScale (v0.0.3)](https://bot.adofai.gg/api/mods/ShowTimingWindowScale?download=true)
   * [ShowVFXs (v1.1.0)](https://bot.adofai.gg/api/mods/ShowVFXs?download=true)
   * [TileCount (v0.0.9)](https://bot.adofai.gg/api/mods/TileCount?download=true)
+  * [TulttakMod (v0.0.3)](https://bot.adofai.gg/api/mods/TulttakMod?download=true)
   * [YoutubeStream (v0.0.5)](https://bot.adofai.gg/api/mods/YoutubeStream?download=true)
 </details>
 
@@ -43,7 +46,6 @@
   <summary>Show list</summary>
   
   * Editor+ Reborn
-  * JudgeTextBeautifier
   * NoCameraStop
   * PlanetTweaks
 </details>
