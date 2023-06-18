@@ -10,17 +10,19 @@
 <details>
   <summary>Show list</summary>
   
+  * [AdofaiCSL (v2.1.0)](https://bot.adofai.gg/api/mods/AdofaiCSL?download=true)
   * [AdofaiExtension (v0.0.5)](https://bot.adofai.gg/api/mods/AdofaiExtension?download=true)
+  * [AdofaiOBS (v0.0.12)](https://bot.adofai.gg/api/mods/AdofaiOBS?download=true)
   * [AdofaiTweaks (v2.6.3)](https://bot.adofai.gg/api/mods/AdofaiTweaks?download=true)
   * [AutoUpdate (v0.0.4)](https://bot.adofai.gg/api/mods/AutoUpdate?download=true)
   * [BackToThePast (v1.9.3)](https://bot.adofai.gg/api/mods/BackToThePast?download=true)
   * [Convenient-Adofai (v1.1.5)](https://bot.adofai.gg/api/mods/Convenient-Adofai?download=true)
-  * CustomDeathMassage (v1.0.0 ; In archived server)
+  * CustomDeathMassage (v1.0.0 ; 아카이브 서버 모드)
   * [DesyncFix (v0.0.6)](https://bot.adofai.gg/api/mods/DesyncFix?download=true)
   * [DetailRP (v1.0.2)](https://bot.adofai.gg/api/mods/DetailRP?download=true)
-  * [A Mod Which Changes A Design Of Taro DLC Conversation Dialog Window (v0.1.0)](https://bot.adofai.gg/api/mods/DLC%20대화창%20디자인%20바꿔주는%20모드?download=true)
+  * [DLC 대화창 디자인 바꿔주는 모드 (v0.1.0)](https://bot.adofai.gg/api/mods/DLC%20대화창%20디자인%20바꿔주는%20모드?download=true)
   * [EditorTabLib (v2.2.0)](https://bot.adofai.gg/api/mods/EditorTabLib?download=true)
-  * EmulateSpecialday (v1.1.0 ; In archived server)
+  * EmulateSpecialday (v1.1.0 ; 아카이브 서버 모드)
   * [ErrorDetector (v1.0.0)](https://bot.adofai.gg/api/mods/ErrorDetector?download=true)
   * [FaceLock (v1.0.1)](https://bot.adofai.gg/api/mods/FaceLock?download=true)
   * [JudgeTextBeautifier (v1.4.1)](https://bot.adofai.gg/api/mods/JudgeTextBeautifier?download=true)
@@ -31,6 +33,7 @@
   * [MusicTimestamp (v0.0.10)](https://bot.adofai.gg/api/mods/MusicTimestamp?download=true)
   * [NoTileDot (v1.0)](https://bot.adofai.gg/api/mods/NoTileDot?download=true)
   * [Overlayer (v2.4.0)](https://bot.adofai.gg/api/mods/Overlayer?download=true)
+  * [PlanetTweaks (v1.4.1)](https://bot.adofai.gg/api/mods/PlanetTweaks?download=true)
   * [ProgressDisplayer (v2.0.8)](https://bot.adofai.gg/api/mods/ProgressDisplayer?download=true)
   * [RainingKeys (v0.4.1)](https://bot.adofai.gg/api/mods/RainingKeys?download=true)
   * [ShowTimingWindowScale (v0.0.3)](https://bot.adofai.gg/api/mods/ShowTimingWindowScale?download=true)
@@ -48,7 +51,6 @@
   
   * Editor+ Reborn
   * NoCameraStop
-  * PlanetTweaks
 </details>
 
 ---

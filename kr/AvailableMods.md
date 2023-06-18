@@ -10,7 +10,9 @@
 <details>
   <summary>목록 보기</summary>
   
+  * [AdofaiCSL (v2.1.0)](https://bot.adofai.gg/api/mods/AdofaiCSL?download=true)
   * [AdofaiExtension (v0.0.5)](https://bot.adofai.gg/api/mods/AdofaiExtension?download=true)
+  * [AdofaiOBS (v0.0.12)](https://bot.adofai.gg/api/mods/AdofaiOBS?download=true)
   * [AdofaiTweaks (v2.6.3)](https://bot.adofai.gg/api/mods/AdofaiTweaks?download=true)
   * [AutoUpdate (v0.0.4)](https://bot.adofai.gg/api/mods/AutoUpdate?download=true)
   * [BackToThePast (v1.9.3)](https://bot.adofai.gg/api/mods/BackToThePast?download=true)
@@ -31,6 +33,7 @@
   * [MusicTimestamp (v0.0.10)](https://bot.adofai.gg/api/mods/MusicTimestamp?download=true)
   * [NoTileDot (v1.0)](https://bot.adofai.gg/api/mods/NoTileDot?download=true)
   * [Overlayer (v2.4.0)](https://bot.adofai.gg/api/mods/Overlayer?download=true)
+  * [PlanetTweaks (v1.4.1)](https://bot.adofai.gg/api/mods/PlanetTweaks?download=true)
   * [ProgressDisplayer (v2.0.8)](https://bot.adofai.gg/api/mods/ProgressDisplayer?download=true)
   * [RainingKeys (v0.4.1)](https://bot.adofai.gg/api/mods/RainingKeys?download=true)
   * [ShowTimingWindowScale (v0.0.3)](https://bot.adofai.gg/api/mods/ShowTimingWindowScale?download=true)
@@ -48,7 +51,6 @@
   
   * Editor+ Reborn
   * NoCameraStop
-  * PlanetTweaks
 </details>
 
 ---
