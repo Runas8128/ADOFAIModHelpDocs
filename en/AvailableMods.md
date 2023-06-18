@@ -36,6 +36,7 @@
   * [PlanetTweaks (v1.4.1)](https://bot.adofai.gg/api/mods/PlanetTweaks?download=true)
   * [ProgressDisplayer (v2.0.8)](https://bot.adofai.gg/api/mods/ProgressDisplayer?download=true)
   * [RainingKeys (v0.4.1)](https://bot.adofai.gg/api/mods/RainingKeys?download=true)
+  * [ShowBPM (v1.2.0)](https://bot.adofai.gg/api/mods/ShowBPM?download=true)
   * [ShowTimingWindowScale (v0.0.3)](https://bot.adofai.gg/api/mods/ShowTimingWindowScale?download=true)
   * [ShowVFXs (v1.1.0)](https://bot.adofai.gg/api/mods/ShowVFXs?download=true)
   * [TileCount (v0.0.9)](https://bot.adofai.gg/api/mods/TileCount?download=true)
